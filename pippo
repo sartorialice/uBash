@@ -1,0 +1,8 @@
+totale 24
+drwxrwxr-x 2 davide davide 4096 gen 29 10:44 bin
+drwx------ 2 davide davide 4096 dic  8 11:50 libs
+-rw-rw-r-- 1 davide davide 1531 gen 27 20:57 Makefile
+-rw-r--r-- 1 davide davide    0 gen 29 10:46 pippo
+-rw-rw-r-- 1 davide davide  146 dic  8 11:50 README.md
+drwxrwxr-x 2 davide davide 4096 gen 29 10:44 targets
+drwx------ 2 davide davide 4096 dic  8 11:50 ubash
