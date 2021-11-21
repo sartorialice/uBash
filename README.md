@@ -1,7 +1,5 @@
 # uBash
 
-## Membri del Gruppo
+uBash implemented by Alice Sartori: https://github.com/sartorialice, Davide Giovanetti, Andrea Valenzano
 
- - Alice Sartori: Matricola 4819455
- - Andrea Valenzano: Matricola 4548315
- - Davide Giovanetti: Matricola 4823205
+This is a naive version of the Linux shell.
